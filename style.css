@@ -225,6 +225,16 @@ body {
     left: -100px;
     transform: rotate(-15deg);
 }
+#familyz { position:absolute; top:225px; right:10px; width:150px; height:105px; padding:10px; background:rgb(15, 15, 15); box-shadow:0px 0px 5px 3px rgba(0,0,0,0.03); border:1px solid #B3D6E4 ; }
+
+.ftitlez { position:absolute; top:0px; left:0px; width:150px; height:10px; padding:10px; font-family: 'Roboto', sans-serif; color:#B3D6E4; text-align:left; text-transform:uppercase; cursor:default; border-bottom:1px solid #B3D6E4; }
+
+.ftitlez .iconify { position:absolute; top:7px; right:10px; color:#AD8BA0; font-size:15px; cursor:default; }
+
+.fmemberz { position:absolute; bottom:10px; width:100px; height:82px; overflow:auto; overflow-x:hidden; }
+
+.fuserz img { width:50px; height:50px; padding:5px; margin:5px; margin-left:40px; border-radius:50%; border:1px solid #6f7a91; }
+
 
 #u1 {
     position: relative;
